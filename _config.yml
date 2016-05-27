@@ -1,0 +1,28 @@
+name: Baby Olson
+favicon: null
+layout_spectrum: 0.14889026153832674
+typography_spectrum: 0.47714698291383684
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9172486460302025
+  lightness: 0.9022674150764942
+  saturation: 0.8594539395999163
+  rhythmicContrast: 0.15505150728859007
+purpose: []
